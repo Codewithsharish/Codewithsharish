@@ -1,3 +1,4 @@
+[![MasterHead](https://i.ytimg.com/vi/_4kLioMoMrk/maxresdefault.jpg)](htteps://saurabhkadam.io)
 <h1 align="center">Hi 👋, I'm Saurabh Kadam</h1>
 <h3 align="center">A Data Scientist intern with 1+ years of experience in the IT industry, specializing in machine learning, deep learning and neuromorphic computing. proven ability to solve complex problems with data driven solutions and to communicate those solutions to both technical and non-technical audience. skilled working with large datasets and at developing robust, scalabe algorithm and models. Experience at leading Machine Learing project from start to finish including data collection, data processing, data cleaning, feature engineering, model development, deployment and monitoring.</h3>
 <img align="right" alt="Coding" width="400" src="https://thumbs.gfycat.com/AshamedWeightyDachshund-max-1mb.gif">
