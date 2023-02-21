@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Gravitaional wave detection and parameter estimation using Deep Learning.**
 
-- 🌱 I’m currently learning **Data Science**
+- 🌱 I’m currently learning **Master in Artificial Intelligence**
 
 - 💬 Ask me about **Python, Julia, C++, MySql, statistics, Numpy, Pandas, CNN etc.**
 
