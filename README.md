@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/saurabh_6998" target="blank"><img src="https://img.shields.io/twitter/follow/saurabh_6998?logo=twitter&style=for-the-badge" alt="saurabh_6998" /></a> </p>
 
-- 🔭 I’m currently working on **Gravitaional wave detection and parameter estimation using Deep Learning.**
+- 🔭 Published **Gravitaional wave detection and parameter estimation using Deep Learning.**
 
 - 🌱 **Master in Artificial Intelligence**
 
 - 💬 Ask me about **Python, Julia, C++, MySql, statistics, Numpy, Pandas, CNN etc.**
 
-- 📫 How to reach me **saurabhpkadam1998@gmail.com**
+- 📫 How to reach me **im.kadamsaurabh@gmail.com**
 
 - 📄 Know about my experiences https://drive.google.com/file/d/178WB_taTrL6dfV7rauavTUrMygLTB6ke/view?usp=drive_link
 
