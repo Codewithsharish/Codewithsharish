@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/saurabh_6998" target="blank"><img src="https://img.shields.io/twitter/follow/saurabh_6998?logo=twitter&style=for-the-badge" alt="saurabh_6998" /></a> </p>
 
-- 🔭 Published **Gravitaional wave detection and parameter estimation using Deep Learning.**
+- 🔭 Worked at **AI Chef Master as Co-founder & AI Researcher.**
 
 - 🌱 **Master in Artificial Intelligence**
 
