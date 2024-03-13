@@ -11,7 +11,7 @@
 
 - 🌱 **Master in Artificial Intelligence**
 
-- 💬 Ask me about **Python, Julia, C++, MySql, statistics, Numpy, Pandas, CNN etc.**
+- 💬 Ask me about **Python, Julia, C++, MySql, statistics, Deep Learning, Machine Learning, LLM etc.**
 
 - 📫 How to reach me **im.kadamsaurabh@gmail.com**
 
