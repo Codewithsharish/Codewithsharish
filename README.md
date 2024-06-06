@@ -15,8 +15,6 @@
 
 - 📫 How to reach me **im.kadamsaurabh@gmail.com**
 
-- 📄 Know about my experiences https://drive.google.com/file/d/1iCqEyMzRt2eGQu0mz-19TUVSldsaWdD_/view?usp=drive_link
-
 - ⚡ Fun fact **Fun with Code**
 
 <h3 align="left">Connect with me:</h3>
